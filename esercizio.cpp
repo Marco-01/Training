@@ -14,5 +14,7 @@ int main() {
 	
 	cout<<"Il risultato e' "<<n1+n2<<endl;
 	
+	cout<<"FINE"<<endl;
+	
 	
 }
